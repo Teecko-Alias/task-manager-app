@@ -23,10 +23,6 @@ npm install
 npm run dev
 ```
 
-## Live Demo
-
-https://your-demo-link.com
-
 ## Author
 
-Your Name
+Teecko
