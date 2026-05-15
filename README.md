@@ -23,6 +23,10 @@ npm install
 npm run dev
 ```
 
+## Live Demo
+
+https://task-manager-app-indol-five.vercel.app
+
 ## Author
 
 Teecko
